@@ -21,7 +21,7 @@ A web-based Spotify clone built using HTML, CSS, and JavaScript.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/nikitauppe/Spotify-Clone.git
    ```
 2. Navigate to the project directory:
    ```sh
