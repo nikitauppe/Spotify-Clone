@@ -11,7 +11,7 @@ A web-based Spotify clone built using HTML, CSS, and JavaScript.
 - [Acknowledgements](#acknowledgements)
 
 ## Demo
-[Live Demo](#) <!-- Replace '#' with the link to your live demo if available -->
+[Live Demo](https://nikitauppe.github.io/Spotify-Clone/) <!-- Replace '#' with the link to your live demo if available -->
 
 ## Features
 - Play, pause, previous and next tracks
