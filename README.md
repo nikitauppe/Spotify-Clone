@@ -17,7 +17,7 @@ A web-based Spotify clone built using HTML, CSS, and JavaScript.
 - Play, pause, previous and next tracks
 - Responsive design for various screen sizes
 - Interactive progress bar.
-- 
+  
 ## Installation
 1. Clone the repository:
    ```sh
