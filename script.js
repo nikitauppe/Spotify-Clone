@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Agar Ho Tum - Mr and Mrs Mahi", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Agar Ho Tum - Mr and Mrs Mahi", filePath: "Spotify-Clone/songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Angaaron - Pushpa 2 The Rule", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Chaleya - Jawan", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Dil Se Dil Tak - Bawaal", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
